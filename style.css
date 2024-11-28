@@ -146,11 +146,11 @@ a:hover {
 }
 
 .footer {
-    
     width: 100%;
+    background-color: white;
     text-align: center;
     padding: 20px;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 /* CV Grid */
