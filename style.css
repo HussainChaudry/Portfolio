@@ -93,6 +93,11 @@ a:hover {
     font-size: 1.2rem;
 }
 
+#about p {
+    font-size: 1.4rem; /* Pas de grootte aan naar wens */
+    line-height: 1.8; /* Maak de regels iets verder uit elkaar voor leesbaarheid */
+}
+
 /* Secties */
 .section {
     padding: 60px 20px;
@@ -141,7 +146,7 @@ a:hover {
 
 .project p {
     margin: 10px;
-    font-size: 1.1rem;
+    font-size: 1.4rem;
     font-weight: 500;
 }
 
@@ -167,6 +172,14 @@ a:hover {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cv-grid li, p {
+    font-size: 1.2rem;
+}
+
+.cv-grid h3 {
+    font-size: 1.6rem;
 }
 
 .contact-grid {
